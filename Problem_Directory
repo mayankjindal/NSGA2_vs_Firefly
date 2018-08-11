@@ -1,0 +1,15 @@
+Description of Problems
+
+~ Problem 1
+
+	f1 : x^2 - y^2
+	f2 : x^2 + y^2
+
+	Range : [-2, -2] to [2, 2]
+
+~ Problem SCH
+
+	f1 : x^2
+	f2 : (x-2)^2
+
+	Range : [-4] to [4]
