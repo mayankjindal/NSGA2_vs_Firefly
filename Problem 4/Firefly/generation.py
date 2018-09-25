@@ -55,6 +55,7 @@ class generation(object):
                     list_of_np_zero.append(x)
             front_counter += 1
             temp_front = list_of_np_zero
+
         self.population_members.sort(key=lambda x: x.front)
         self.no_of_fronts = front_counter
 

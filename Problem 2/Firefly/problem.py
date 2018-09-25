@@ -4,16 +4,16 @@ import numpy as np
 
 
 def brightness_1(x):
-    return x[0]**2 - x[1]**2
+    return x[0]**2
 
 
 def brightness_2(x):
-    return x[0]**2 + x[1]**2
+    return (x[0] - 2)**2
 
 
 class Problem(object):
-    l_bound = [-2, -2]
-    u_bound = [2, 2]
+    l_bound = [-4]
+    u_bound = [4]
     no_of_objectives = 2
     brightness_functions = [brightness_1, brightness_2]
 

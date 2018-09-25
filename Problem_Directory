@@ -5,11 +5,26 @@ Description of Problems
 	f1 : x^2 - y^2
 	f2 : x^2 + y^2
 
-	Range : [-2, -2] to [2, 2]
-
-~ Problem SCH
+~ Problem 2 (SCH) (Convex)
 
 	f1 : x^2
 	f2 : (x-2)^2
 
-	Range : [-4] to [4]
+~ Problem 3 (ZDT1) (Convex)
+
+	f1 = x1
+	f2 = g(x)*(1 - sqrt(x1/g(x)))
+	g(x) = 1 + 9*(for i=2:30, sum(xi))/(n-1)
+
+~ Problem 4 (ZDT2) (Non-Convex)
+
+	f1 = x1
+	f2 = g(x)*(1 - (x1/g(x))^2)
+	g(x) = 1 + 9*(for i=2:30, sum(xi))/(n-1)
+
+~ Problem 5 (ZDT3) (Convex, Disconnected)
+
+	f1 = x1
+	f2 = g(x)*(1 - sqrt(x1/g(x)) - (x1/g(x))*sin(10*pi*x1))
+	g(x) = 1 + 9*(for i=2:30, sum(xi))/(n-1)
+

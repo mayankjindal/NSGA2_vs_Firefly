@@ -5,34 +5,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="242a632a-c874-4b49-9b68-358da2db977c" name="Default" comment="">
-      <change afterPath="$USER_HOME$/cudu/app/static/app/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/css/fwslider.css" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/css/style.css" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/bg_image.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/board1.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/board2.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/board3.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/board4.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/board5.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/img-sprite.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/logo.png" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/pic1.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/pic2.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/pic3.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/pic4.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/slider1.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/images/slider2.jpg" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/classie.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/fwslider.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/jquery-ui.min.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/jquery.flexisel.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/jquery.min.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/responsive-nav.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/static/app/js/uisearch.js" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/templates/app/base.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/templates/app/electro.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/templates/app/index.html" afterDir="false" />
-      <change afterPath="$USER_HOME$/cudu/app/templates/app/shop_base.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/Main.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/Main.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/constants.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/constants.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/firefly.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/firefly.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/generation.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/generation.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Firefly/problem.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Firefly/problem.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Image_Processing/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Image_Processing/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Image_Processing/lab 1.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Imputation_analysis/.idea/Imputation_analysis.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Imputation_analysis/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Imputation_analysis/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Imputation_analysis/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Imputation_analysis/main.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/.idea/ML.iml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/Hunger_Malnutrition_Prediction.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/Lin_Pol_Log_SVM.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/Sentiment_Analysis_SGD.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/lab1.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/lab2.py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/ML/lab3(Naive Bayes Classification).py" beforeDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Machine_Learning/.idea/workspace.xml" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Machine_Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Machine_Learning/Gradient Descent.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Machine_Learning/Gradient Descent.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Machine_Learning/MultiLinear Regression and Visualization.py" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Machine_Learning/MultiLinear Regression and Visualization.py" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/NSGA-2" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/NSGA-2" afterDir="false" />
+      <change beforePath="$USER_HOME$/PycharmProjects/Web Crawler" beforeDir="false" afterPath="$USER_HOME$/PycharmProjects/Web Crawler" afterDir="false" />
+      <change beforePath="$USER_HOME$/cudu/app/templates/app/base.html" beforeDir="false" afterPath="$USER_HOME$/cudu/app/templates/app/base.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/cudu/app/templates/app/electro.html" beforeDir="false" afterPath="$USER_HOME$/cudu/app/templates/app/electro.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/cudu/app/templates/app/index.html" beforeDir="false" afterPath="$USER_HOME$/cudu/app/templates/app/index.html" afterDir="false" />
+      <change beforePath="$USER_HOME$/cudu/app/templates/app/shop_base.html" beforeDir="false" afterPath="$USER_HOME$/cudu/app/templates/app/shop_base.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -49,8 +53,8 @@
       <file leaf-file-name="generation.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/generation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+            <state relative-caret-position="525">
+              <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
               </folding>
@@ -61,7 +65,7 @@
       <file leaf-file-name="firefly.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/firefly.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-75">
+            <state relative-caret-position="105">
               <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -85,8 +89,8 @@
       <file leaf-file-name="problem.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/problem.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -135,6 +139,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +151,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,12 +295,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="-4" width="1301" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4920635" visible="true" weight="0.18388106" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3287037" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50345886" side_tool="true" weight="0.2942943" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4965411" visible="true" weight="0.22620904" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4965411" weight="0.3697348" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Python Console" order="8" weight="0.3287037" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -718,7 +721,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/firefly.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-75">
+        <state relative-caret-position="105">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
@@ -728,8 +731,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/generation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="39" column="40" lean-forward="true" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
+        <state relative-caret-position="525">
+          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
           <folding>
             <element signature="e#0#21#0" expanded="true" />
           </folding>
@@ -738,8 +741,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/problem.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
